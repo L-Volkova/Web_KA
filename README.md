@@ -12,5 +12,4 @@ Semantic tags
 
 
 [Repository](https://github.com/L-Volkova/Web_KA)
-
 ![image](img/logo2.jpg)
